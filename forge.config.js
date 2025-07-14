@@ -44,11 +44,11 @@ module.exports = {
   publishers: [
     {
       name: '@electron-forge/publisher-github',
-      config: {
-        repository: {
-          owner: 'github-user-name',
-          name: 'github-repo-name'
-        },
+              config: {
+          repository: {
+            owner: 'KlevenFan',
+            name: 'Eletron_Test_APP'
+          },
         prerelease: false,
         draft: true
       }
