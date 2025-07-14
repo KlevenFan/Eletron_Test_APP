@@ -3,6 +3,7 @@
 .DS_Store
 dist
 temp
+out
 debugger_app
 
 npm-debug.log*
